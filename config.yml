@@ -33,7 +33,7 @@ name: "@ShadyElyaski"
 
 # Tagline section text
 tagline: >
-    An iOS engineer from Egypt 🇪🇬 Works for Meta on  <a href="https://www.meta.com/ai-glasses/" target="_blank">Smart Glasses</a> 😎 who also loves Scuba & Freediving, Spearfishing and Cycling.
+    An iOS engineer from Egypt 🇪🇬 Works for Meta on Smart Glasses 😎 who also loves Scuba & Freediving, Spearfishing and Cycling.
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -46,7 +46,7 @@ links:
   - link:
       icon: "fa-solid fa-file"
       text: "Resume"
-      url: "http://elyaski.com/ShadyElyaski_CV.pdf"
+      url: "http://ftp.elyaski.com/ShadyElyaski_CV.pdf"
       alt: "ios-filter-control is an iOS Filter UIControl Subclass. Zero Graphics. Highly Customizable."
       title: "Resume"
       target: "_blank"
