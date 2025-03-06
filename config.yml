@@ -13,7 +13,7 @@ lang: "en"
 plugins:
 #   # Automatically fetch Medium follower count
 #   - MediumFollowersCountPlugin:
-#       username: zhgchgli
+#       username: ShadyElyaski
   # Automatically fetch Github repo star count
   - GithubRepoStarsCountPlugin:
       - ShadyElyaski/ios-filter-control
@@ -33,7 +33,7 @@ name: "@ShadyElyaski"
 
 # Tagline section text
 tagline: >-
-    An iOS engineer from Egypt 🇪🇬 who also loves Scuba & Freediving, Cycling and spearfishing.
+    An iOS engineer from Egypt 🇪🇬 Works for Meta on Smart Glasses 😎 who also loves Scuba & Freediving, Spearfishing and Cycling.
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -46,7 +46,7 @@ links:
   - link:
       icon: "fa-solid fa-file"
       text: "Resume"
-      url: "https://elyaski.com/ShadyElyaski_CV.pdf"
+      url: "http://elyaski.com/ShadyElyaski_CV.pdf"
       alt: "ios-filter-control is an iOS Filter UIControl Subclass. Zero Graphics. Highly Customizable."
       title: "Resume"
       target: "_blank"
@@ -56,14 +56,7 @@ links:
       url: "http://mobileapps.elyaski.com"
       alt: "Shady Elyaski's Mobile Apps Portfolio"
       title: "Mobile Apps Portfolio"
-      target: "_blank"
-  - link:
-      icon: "fa-solid fa-file"
-      text: "Resume"
-      url: "https://elyaski.com/ShadyElyaski_CV.pdf"
-      alt: "ios-filter-control is an iOS Filter UIControl Subclass. Zero Graphics. Highly Customizable."
-      title: "Resume"
-      target: "_blank"
+      target: "_self"
   - link:
       icon: "fa-brands fa-wordpress"
       text: "Blog"
@@ -87,7 +80,7 @@ links:
       target: "_blank"
   - link:
       icon: "fa-brands fa-github"
-      text: "ios-filter-control <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/linkyee']}} Stars)</span>"
+      text: "ios-filter-control <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ShadyElyaski/ios-filter-control']}} Stars)</span>"
       url: "https://github.com/ShadyElyaski/ios-filter-control"
       alt: "ios-filter-control is an iOS Filter UIControl Subclass. Zero Graphics. Highly Customizable."
       title: "ios-filter-control GitHub Page"
