@@ -92,7 +92,7 @@ links:
       alt: "ios-filter-control is an iOS Filter UIControl Subclass. Zero Graphics. Highly Customizable."
       title: "ios-filter-control GitHub Page"
       target: "_blank"
-   - link:
+  - link:
       icon: "fa-brands fa-github"
       text: "ios-twitter-text-counter <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['DynamicSignal/ios-twitter-text-counter']}} Stars)</span>"
       url: "https://github.com/DynamicSignal/ios-twitter-text-counter"
