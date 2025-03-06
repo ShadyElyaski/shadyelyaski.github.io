@@ -32,8 +32,8 @@ avatar: "./images/ShadyDP.jpg"
 name: "@ShadyElyaski"
 
 # Tagline section text
-tagline: >-
-    An iOS engineer from Egypt 🇪🇬 Works for Meta on Smart Glasses 😎 who also loves Scuba & Freediving, Spearfishing and Cycling.
+tagline: >
+    An iOS engineer from Egypt 🇪🇬 Works for Meta on  <a href="https://www.meta.com/ai-glasses/" target="_blank">Smart Glasses</a> 😎 who also loves Scuba & Freediving, Spearfishing and Cycling.
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -70,13 +70,6 @@ links:
       url: "http://photography.elyaski.com"
       alt: "Shady Elyaski's Photography"
       title: "Photography"
-      target: "_blank"
-  - link:
-      icon: "fa-brands fa-wordpress"
-      text: "Blog"
-      url: "https://blog.elyaski.com"
-      alt: "ios-filter-control is an iOS Filter UIControl Subclass. Zero Graphics. Highly Customizable."
-      title: "Blog"
       target: "_blank"
   - link:
       icon: "fa-brands fa-github"
