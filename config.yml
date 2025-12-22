@@ -46,28 +46,28 @@ links:
   - link:
       icon: "fa-solid fa-file"
       text: "Resume"
-      url: "http://ftp.elyaski.com/ShadyElyaski_CV.pdf"
+      url: "https://elyaski.com/ShadyElyaski_CV.pdf"
       alt: "ios-filter-control is an iOS Filter UIControl Subclass. Zero Graphics. Highly Customizable."
       title: "Resume"
       target: "_blank"
   - link:
       icon: "fa-solid fa-mobile-screen-button"
       text: "Mobile Apps Portfolio"
-      url: "http://mobileapps.elyaski.com"
+      url: "https://mobileapps.elyaski.com"
       alt: "Shady Elyaski's Mobile Apps Portfolio"
       title: "Mobile Apps Portfolio"
       target: "_self"
   - link:
       icon: "fa-brands fa-wordpress"
       text: "Blog"
-      url: "http://blog.elyaski.com"
+      url: "https://blog.elyaski.com"
       alt: "Shady Elyaski's Blog"
       title: "Blog"
       target: "_blank"
   - link:
       icon: "fa-brands fa-500px"
       text: "Photography"
-      url: "http://photography.elyaski.com"
+      url: "https://photography.elyaski.com"
       alt: "Shady Elyaski's Photography"
       title: "Photography"
       target: "_blank"
@@ -138,4 +138,4 @@ footer: >
 # Footer copyright message
 # Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)
 copyright: >
-  © 2025  <a href="https://elyaski.com" target="_blank">Elyaski</a>.
+  © 2026  <a href="https://elyaski.com" target="_blank">Elyaski</a>.
